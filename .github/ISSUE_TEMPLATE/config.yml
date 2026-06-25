@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Add a directory faster via Pull Request
+    url: https://github.com/USERNAME/REPO/edit/main/README.md
+    about: Edit the README directly and open a Pull Request. Faster than an issue.
