@@ -9,7 +9,6 @@ plugins:
 url: "https://andrew-whitefield.github.io"
 baseurl: "/saas-directories-list"
 
-# Optional: paste the verification token from Google Search Console here.
-# google_site_verification: "your-token"
+google_site_verification: "y_L4KBTzShf0VXQ3m6BUyApHe0Ulks2nypjO_X9AW9I"
 
 author: Andrew Whitefield
