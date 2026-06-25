@@ -1,4 +1,4 @@
-# 🌍 The World's Best SaaS Directory List
+# The Worlds Best SaaS Directory List
 
 ![Directories](https://img.shields.io/badge/directories-327-brightgreen) ![License: CC0](https://img.shields.io/badge/license-CC0-blue) ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen) ![Stars](https://img.shields.io/github/stars/andrew-whitefield/saas-directories-list?style=social)
 
