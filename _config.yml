@@ -1,0 +1,17 @@
+title: World's Best SaaS Directory List
+description: A free, curated A to Z list of 320+ SaaS directories, AI tool directories, and software review sites for backlinks, launches, and reviews. Updated regularly.
+theme: jekyll-theme-cayman
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# After you enable GitHub Pages, set these to your live URL.
+# Example: url "https://andrew.github.io" and baseurl "/awesome-saas-directories"
+url: "https://USERNAME.github.io"
+baseurl: "/REPO"
+
+# Optional: paste the verification token from Google Search Console here.
+# google_site_verification: "your-token"
+
+author: Your Name
