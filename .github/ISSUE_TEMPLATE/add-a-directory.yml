@@ -1,0 +1,51 @@
+name: Add a directory
+description: Suggest a new SaaS directory for the list
+title: "[Add]: "
+labels: ["new directory"]
+body:
+  - type: markdown
+    attributes:
+      value: Thanks for contributing. Please check the list first to make sure it is not already there.
+  - type: input
+    id: name
+    attributes:
+      label: Directory name
+      placeholder: Example Directory
+    validations:
+      required: true
+  - type: input
+    id: url
+    attributes:
+      label: URL
+      placeholder: https://example.com/
+    validations:
+      required: true
+  - type: input
+    id: description
+    attributes:
+      label: Short description
+      description: A few words on what it does. No em dashes.
+      placeholder: SaaS alternatives and reviews.
+    validations:
+      required: true
+  - type: dropdown
+    id: linktype
+    attributes:
+      label: Link type (if known)
+      options:
+        - Unknown
+        - Dofollow
+        - Nofollow
+    validations:
+      required: false
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Checklist
+      options:
+        - label: This directory is not already in the list
+          required: true
+        - label: The link works and the site is live
+          required: true
+        - label: This is a real product, SaaS, startup, or AI directory
+          required: true
