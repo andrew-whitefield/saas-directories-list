@@ -97,6 +97,7 @@ If this saves you time, please ⭐ **star the repo** and share it. New directori
 
 ## B
 
+- [Buildlist](https://buildlist.io/) - The best saas directory for SEO and AI visibility.
 - [Based Tools](https://basedtools.ai/) - AI tools directory.
 - [Best AI Tools](https://bestaitools.org/) - Find and learn AI tools with a chatbot.
 - [Best of AI](https://bestofai.com/) - List of just the best AI tools.
