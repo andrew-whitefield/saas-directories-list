@@ -298,6 +298,7 @@ If this saves you time, please ⭐ **star the repo** and share it. New directori
 - [SaaS Genius](https://saasgenius.com/) - Discover and compare SaaS tools.
 - [Saaspa.ge](https://www.saaspa.ge/) - SaaS products directory.
 - [SaaSBison](https://saasbison.com/) - Software and alternatives with reviews.
+- [SaaSCity](https://saascity.io/) - Gamified SaaS directory where each listing becomes a building on an interactive isometric city map.
 - [SaaSGrow](https://saasgrow.app/) - Home of startups built in public.
 - [SaaSHub](https://www.saashub.com/) - SaaS alternatives and reviews.
 - [SaasHunt](https://saashunt.best/) - Product Hunt alternative for SaaS.
