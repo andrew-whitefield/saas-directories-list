@@ -26,6 +26,7 @@ If this saves you time, please ⭐ **star the repo** and share it. New directori
 
 ## A
 
+- [AI Tools Radar](https://aitoolsradar.com/) - Multilingual directory for discovering AI products, models, agent skills, and prompts, with vendor submissions.
 - [acidtools](https://acidtools.com/) - Productivity and AI tools directory.
 - [Add AI Directory](https://addaidirectory.com/) - Catalog of AI agents and tools.
 - [AgentHunter](https://agenthunter.io/) - Directory of the best AI agents.
