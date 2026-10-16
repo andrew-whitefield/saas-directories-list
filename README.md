@@ -283,6 +283,7 @@ If this saves you time, please ⭐ **star the repo** and share it. New directori
 - [Productivity Directory](https://productivity.directory/) - Find and review AI productivity tools.
 - [Promote Project](https://www.promoteproject.com/) - Platform for promoting projects.
 - [Proofstories](https://proofstories.io/) - How tools won their first customers.
+- [Public Prompts](https://www.publicprompts.art/) - Reviewed AI tools and free prompts.
 
 ## R
 
