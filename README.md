@@ -305,6 +305,7 @@ If this saves you time, please ⭐ **star the repo** and share it. New directori
 - [SaaSPromo](https://saaspromo.com/) - Promote your SaaS with campaigns.
 - [Saassy Board](https://saassy-board.com/) - Launch SaaS and earn rewards.
 - [SaaSWorthy](https://www.saasworthy.com/) - SaaS directory with scoring and awards.
+- [SolarXlist](https://solarxlist.org/) - Global solar, PV, and energy-storage company directory.
 - [Sales Tools AI](https://salestools.ai/) - AI tools that increase sales.
 - [SearchAiDirectory](https://searchaidirectory.com/) - Find the best AI tools.
 - [SelectSoftware Reviews](https://www.selectsoftwarereviews.com/) - HR and recruiting software reviews.
