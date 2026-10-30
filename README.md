@@ -286,6 +286,7 @@ If this saves you time, please ⭐ **star the repo** and share it. New directori
 
 ## R
 
+- [RadarMakers](https://radarmakers.com/) - Free launch directory for indie makers.
 - [RankYourAI](https://rankyourai.com/) - Ranking and review platform for AI tools.
 - [rankinpublic](https://rankinpublic.xyz/) - Live product rankings.
 - [readySaaSgo](https://readysaasgo.com/) - SaaS directory.
