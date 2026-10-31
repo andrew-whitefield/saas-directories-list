@@ -351,6 +351,7 @@ If this saves you time, please ⭐ **star the repo** and share it. New directori
 - [Stratup.ai](https://stratup.ai/) - AI-powered startup ideas and tools.
 - [Submit AI Tools](https://submitaitools.org/) - Discover and share AI tools.
 - [SubmitHunt](https://www.submithunt.com/) - Visual showcase for startups.
+- [Submito](https://submito.net/) - Directory to submit and discover new projects.
 - [Sumodir](https://sumodir.com/) - Business and SaaS directory.
 - [Super Launch](https://www.superlaun.ch/) - Product launch platform and directory.
 
