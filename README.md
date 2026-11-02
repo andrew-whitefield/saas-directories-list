@@ -315,6 +315,7 @@ If this saves you time, please ⭐ **star the repo** and share it. New directori
 - [Show Me Best AI](https://showmebest.ai/) - Discover the best AI tools.
 - [SideProjectors](https://www.sideprojectors.com/) - Marketplace for side projects.
 - [Simple.ink](https://simple.ink/) - Turn Notion pages into websites.
+- [SitePatent](https://sitepatent.com/) - Directory of startups, tools, and online products.
 - [Slant](https://www.slant.co/) - Crowdsourced product recommendations.
 - [Slashdot](https://slashdot.org/) - Tech news and software listings.
 - [Software Advice](https://www.softwareadvice.com/) - Software recommendations for buyers.
