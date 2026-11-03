@@ -243,6 +243,7 @@ If this saves you time, please ⭐ **star the repo** and share it. New directori
 - [Makerlist.io](https://makerlist.io/) - Directory of tools and startups.
 - [manytools](https://manytools.io/) - Software tools for digital professionals.
 - [Marketing Tools List](https://marketingtoolslist.com/) - Curated marketing tools.
+- [MEDIAPRONET](https://mediapronet.com/) - Curated directory of new startups, SaaS tools and indie products.
 - [Micro SaaS Examples](https://www.microsaasexamples.com/) - Best micro SaaS ideas.
 - [MicroLaunch](https://microlaunch.net/) - Launch and discover micro startups.
 - [Most Popular AI Tools](https://mostpopularaitools.com/) - Trending AI tools directory.
