@@ -377,6 +377,7 @@ If this saves you time, please ⭐ **star the repo** and share it. New directori
 - [toolfolio](https://toolfolio.io/) - Tools and resources in one place.
 - [ToolHub](https://toolhub.me/) - Hub for discovering tools and apps.
 - [Toolify.ai](https://www.toolify.ai/) - AI companies and tools, auto-updated.
+- [TooliGuide](https://tooliguide.com/) - Instagram following trackers and Story viewers comparison directory; free vendor submit at /submit-tool/.
 - [Toolkitly](https://www.toolkitly.com/) - Tech tool discovery and discussion.
 - [Toollist](https://toollist.ai/) - Directory of AI tools.
 - [Tool Pilot](https://www.toolpilot.ai/) - Navigate the world of AI tools.
