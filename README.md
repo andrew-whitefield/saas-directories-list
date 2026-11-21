@@ -381,6 +381,7 @@ If this saves you time, please ⭐ **star the repo** and share it. New directori
 - [Toollist](https://toollist.ai/) - Directory of AI tools.
 - [Tool Pilot](https://www.toolpilot.ai/) - Navigate the world of AI tools.
 - [ToolPasta](https://toolpasta.com/) - Discover AI websites and tools.
+- [Toolradar](https://toolradar.com/) - Software and AI tool directory, prices checked on vendor pages, free listing.
 - [Tools](https://www.tools/) - Growing directory of AI tools.
 - [Tools Hub AI](https://toolshub.ai/) - Best AI tools for every task.
 - [toolsfine](https://toolsfine.com/) - Better tools, better work.
